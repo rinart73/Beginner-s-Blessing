@@ -1,0 +1,1 @@
+descriptions["Beginner's Blessing"] = "Luck is on your side in these first steps on the expanses of space.\nWelcome to '${server}'!"%_t

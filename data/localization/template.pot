@@ -1,0 +1,8 @@
+# ========== BeginnersBlessing\data\scripts\entity\beginnersblessing.lua ==========
+#: BeginnersBlessing\data\scripts\entity\beginnersblessing.lua:
+msgid "Beginner's Blessing"
+msgstr ""
+
+#: BeginnersBlessing\data\scripts\entity\beginnersblessing.lua:
+msgid "Luck is on your side in these first steps on the expanses of space.\nWelcome to '${server}'!"
+msgstr ""
