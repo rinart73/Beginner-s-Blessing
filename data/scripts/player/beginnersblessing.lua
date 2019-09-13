@@ -51,7 +51,8 @@ function BeginnersBlessing.onEntityCreate(entityId)
               nil, -- don't need to specify description, because we already did in the 'BuffsIntegration.lua'
               { server = Server().name }, -- we'll pass these arguments to description
               0xff00ffd8, -- complex buffs are white by default, let's make this one look unique
-              0xff74dacb -- and this color will be used to form a gradient for a buff icon when duration will drop below 60 (for a visual 'decay' effect)
+              0xff74dacb, -- and this color will be used to form a gradient for a buff icon when duration will drop below 60 (for a visual 'decay' effect)
+              -1 -- low priority display
             )
         end
         if shipsCreated >= 3 then terminate() end -- no more buffs

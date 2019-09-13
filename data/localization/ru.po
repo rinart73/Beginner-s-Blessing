@@ -5,4 +5,4 @@ msgstr "Благословение новичка"
 
 #: BeginnersBlessing\data\scripts\entity\beginnersblessing.lua:
 msgid "Luck is on your side in these first steps on the expanses of space.\nWelcome to '${server}'!"
-msgstr "Удача сопуствует вам на этих первых шагах по просторам космоса.\nДобро пожаловать на '${server}'!"
+msgstr "Удача сопутствует вам на этих первых шагах по просторам космоса.\nДобро пожаловать на '${server}'!"
